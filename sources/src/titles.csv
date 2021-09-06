@@ -1,0 +1,272 @@
+Book_title,Number_Of_Pages,isbn,item_id,pub_year,publisher,author_name,author_id
+The Elements of Style,105,806133678,1,1968,Wiley,Hisashi Suzuki,1
+The Information: A History a Theory a Flood,527,140230262,2,1964,Wiley,David Brady,2
+Responsive Web Design Overview For Beginners,50,673990176,3,1998,Penguin,Santosh S. Venkatesh,3
+Ghost in the Wires: My Adventures as the World's Most Wanted Hacker,393,1558491112,4,1993,HarperCollins,Charles Fefferman,4
+How Google Works,305,573697558,5,2012,Penguin,Artur Speiser,5
+The Meme Machine,288,1931082499,6,2009,Springer,Fabio Cecchi,6
+Start with Why: How Great Leaders Inspire Everyone to Take Action,256,945575939,7,1975,Orient Blackswan,Nidhi Hegde,7
+Algorithms to Live By: The Computer Science of Human Decisions,368,1565849868,8,1977,Penguin,Ethan Elenberg,8
+Weapons of Math Destruction: How Big Data Increases Inequality and Threatens Democracy,259,1580051588,9,1960,CRC,Moran Feldman,9
+ZX Spectrum Games Code Club: Twenty fun games to code and learn,128,268041342,10,2018,Penguin,Will Dabney,10
+Sync: The Emerging Science of Spontaneous Order,352,881461830,11,1976,Apress,Joshua Loftus,11
+The Master Algorithm: How the Quest for the Ultimate Learning Machine Will Remake Our World,352,253214920,12,1949,Random House,Jake Snell,12
+Ship It!,200,60953225,13,2005,Bodley Head,Chongxuan LI,13
+Superintelligence: Paths Dangers Strategies,328,1575253860,14,1985,MIT Press,Scott Markel,14
+The Art of the Start: The Time-Tested Battle-Hardened Guide for Anyone Starting Anything,240,1585360953,15,1997,Penguin,Akihiro Yabe,15
+Kingpin: How One Hacker Took Over the Billion-Dollar Cybercrime Underground,288,316347108,16,1991,Random House,Ken-Ichi Kawarabayashi,16
+The Quark and the Jaguar: Adventures in the Simple and the Complex,392,1566890012,17,1959,MIT Press,Naonori Kakimura,17
+Linked: How Everything Is Connected to Everything Else and What It Means for Business Science and Everyday Life,304,1892514117,18,2021,Apress,Takuro Fukunaga,18
+Our Final Invention: Artificial Intelligence and the End of the Human Era,336,1566891418,19,1983,Penguin,Daisuke Hatano,19
+The Innovators: How a Group of Hackers Geniuses and Geeks Created the Digital Revolution,542,944350615,20,2003,Penguin,Hanna Sumita,20
+Debugging: The 9 Indispensable Rules for Finding Even the Most Elusive Software and Hardware Problems,192,1931082529,21,2010,O'Reilly,Mali Sundaresan,21
+Big Data: A Revolution That Will Transform How We Live Work and Think,242,199273154,22,2017,HBA,Arshed Nabeel,22
+Help Your Kids with Computer Coding,224,814321429,23,2020,O'Reilly,Blake Mason,23
+The Code Book: The Science of Secrecy from Ancient Egypt to Quantum Cryptography,412,295977469,24,1963,Penguin,Rebecca Roelofs,24
+Game Programming Golden Rules,318,822955601,25,1984,O'Reilly,Gregory J. Wolff,25
+The Architecture of Open Source Applications,432,878054790,26,2020,MIT Press,Mitchell Stern,26
+How to Create a Mind: The Secret of Human Thought Revealed,336,978848934,27,1993,Penguin,Bikash Joshi,27
+The Hidden Connections: A Science for Sustainable Living,320,520216849,28,1981,Penguin,Franck Iutzeler,28
+Computability and Unsolvability,288,275935671,29,1991,Random House,Yury Maximov,29
+Adventures in Minecraft,320,877457956,30,1976,Random House,Dinghan Shen,30
+Coding Games in Scratch,224,159179188,31,1953,Random House,Guoyin Wang,31
+Expert C Programming: Deep C Secrets,384,1573240370,32,1993,Random House,Angeliki Lazaridou,32
+Data and Goliath: The Hidden Battles to Collect Your Data and Control Your World,448,1560253789,33,1985,Rupa,karl Tuyls,33
+The Cosmic Landscape: String Theory and the Illusion of Intelligent Design,416,826348181,34,2009,Penguin,Julien Perolat,34
+What Is Life? with Mind and Matter and Autobiographical Sketches,184,875653421,35,1964,Random House,Robert Mattila,35
+Six Degrees: The Science of a Connected Age,384,1557837120,36,1989,Rupa,Timothy W. Cacciatore,36
+Nine Algorithms That Changed the Future: The Ingenious Ideas That Drive Today's Computers,219,1558853464,37,1991,Transworld,Cristian Rojas,37
+The Society of Mind,336,271027215,38,1998,Pan,Vikram Krishnamurthy,38
+JavaScript: The Good Parts,153,452011744,39,1953,Hyperion,Bo Wahlberg,39
+The Pattern on the Stone: The Simple Ideas that Make Computers Work,176,870498762,40,2019,Penguin,Ksenia Konyushkova,40
+Accelerate: Building and Scaling High-Performing Technology Organizations,257,804011079,41,1949,Random House,Raphael Sznitman,41
+Beginners Guide On PHP Programming: Quick And Easy Guide To Learn PHP With My-SQL,410,674006038,42,1987,Penguin,Yuchen Pu,42
+The Connection Machine,190,618249338,43,1978,HarperCollins,Yacmur Guriturk,43
+Agile Retrospectives: Making Good Teams Great,170,743257588,44,2010,Penguin,Katja Seeliger,44
+Python Programming Books Set: Python Programming for Beginners & Complete Guide for Python Programming,446,872865010,45,1952,HarperCollins,Sander Bosch,45
+The Phoenix Project: A Novel About IT DevOps and Helping Your Business Win,345,872865282,46,1986,Pocket,Rob van Lier,46
+Agile Web Development with Rails: A Pragmatic Guide,558,415936829,47,2008,Mauj,Paul Sajda,47
+Scrum and XP from the Trenches,140,201846705,48,1958,Penguin,Celestine Dinner,48
+A Smarter Way to Learn JavaScript: The new approach that uses technology to cut your effort in half,343,1888160438,49,1961,Penguin,Thomas Parnell,49
+97 Things Every Programmer Should Know: Collective Wisdom from the Experts,258,195020588,50,2003,Penguin,Prateep Bhattacharjee,50
+Introduction to Functional Programming,293,806513497,51,1957,Random House,Sukhendu Das,51
+An Introduction to Functional Programming Through Lambda Calculus,336,875652530,52,1958,Rupa,Wojciech M. Czarnecki,52
+Chaos: Making a New Science,352,809327635,53,2002,Random House,Matthias Poloczek,53
+The Strangest Man: The Hidden Life of Paul Dirac Mystic of the Atom,539,879058323,54,1981,BBC,Paul F. Christiano,54
+Your First App: Node.js,317,1567920780,55,1998,Random House,Jan Leike,55
+Apprenticeship Patterns: Guidance for the Aspiring Software Craftsman,176,813007267,56,1982,Elsevier,Tom Brown,56
+Python Crash Course: A Hands-On Project-Based Introduction to Programming,560,1587298716,57,1969,Pearson,Miljan Martic,57
+Invent Your Own Computer Games with Python 3rd Edition,370,820327751,58,2017,Pearson,Leif H. Finkel,58
+The Principles of Object-Oriented JavaScript,120,1583220224,59,1965,O'Reilly,Dario Amodei,59
+Joel on Software,384,813190665,60,1997,Prentice Hall,Arturs Backurs,60
+Sams Teach Yourself JavaScript in 24 Hours,442,813531624,61,1954,Pearson,Duc Thien Nguyen,61
+The Shape of Inner Space: String Theory and the Geometry of the Universe's Hidden Dimensions,377,1403979995,62,1984,TMH,Hoong Chuin Lau,62
+Seven Languages in Seven Weeks,328,978625110,63,2004,Prentice Hall,Weiyao Wang,63
+Quality Software Management V 1 – Systems Thinking,336,872863131,64,1986,Random House,Liqun Chen,64
+Python Programming For Beginners: Quick And Easy Guide For Python Programmers,190,815320809,65,2009,Penguin,Olaf Sporns,65
+Manage Your Project Portfolio,250,1590212282,66,1988,Random House,Emmanouil Platanios,66
+How Google Tests Software,281,230606326,67,1988,Picador,Hoifung Poon,67
+Code: The Hidden Language of Computer Hardware and Software,400,873384660,68,2010,Penguin,Eric J. Horvitz,68
+Computability and Logic,350,1559363320,69,2017,Penguin,Arun K. Jagota,1
+Eloquent JavaScript: A Modern Introduction to Programming,224,979485215,70,2001,Penguin,Sebastien Lahaie,2
+Does God Play Dice?: The New Mathematics of Chaos,416,395875099,71,1975,Random House,Jennifer Wortman Vaughan,3
+Learn Java the Easy Way : A Hands-On Introduction to Programming,312,321198433,72,1998,Pan,Sebastian U. Stich,4
+Make Your Own Neural Network: An In-depth Visual Introduction For Beginners,316,573695393,73,1979,HarperCollins,Nan Ke,5
+The Golden Ticket: P Np and the Search for the Impossible,176,842028293,74,2006,Mauj,Qian Yu,6
+Pro Git,290,936839228,75,1966,Penguin,Mohammad Maddah-Ali,7
+Automate the Boring Stuff with Python: Practical Programming for Total Beginners,479,1573441880,76,1966,Springer,Salman Avestimehr,8
+Best of Game Programming Gems,576,1558853316,77,1965,Mauj,vighnesh Birodkar,9
+Sams Teach Yourself MySQL in 24 Hours,368,1932663177,78,1952,Mauj,Maziar Sanjabi,10
+Algorithms Unlocked,237,393316718,79,1974,Mauj,Chao-Kai Chiang,11
+Practical SQL: A Beginner's Guide to Storytelling with Data,392,1598530488,80,2020,Mauj,Asriel U. Levin,12
+CSS: The Missing Manual,560,873515420,81,2001,HarperCollins,Arun Suggala,13
+Blueprints Visual Scripting for Unreal Engine,188,1888160381,82,1979,Mauj,Yunpeng Chen,14
+Soft Skills: The Software Developer's Life Manual,470,1555838278,83,1987,Penguin,Jianan Li,15
+Doing Data Science,375,813122791,84,1976,Wiley,Huaxin Xiao,16
+Automate This: How Algorithms Came to Rule Our World,256,1932183701,85,1988,Wiley,Cong Fang,17
+How to Think Like a Computer Scientist: Learning with Python,288,1575254468,86,1971,Penguin,Feng Cheng,18
+Beginning Java 2,1200,671047566,87,1951,HarperCollins,Qinliang Su,19
+Learn You a Haskell for Great Good!: A Beginner's Guide,376,816524939,88,1993,Penguin,xuejun Liao,20
+Learn You a Haskell for Great Good!,176,595362974,89,1997,Springer,Yee Teh,21
+Unity in Action,352,813538866,90,1973,Orient Blackswan,Victor Bapst,22
+The Goal: A Process of Ongoing Improvement,384,870498746,91,1996,Penguin,Richard Coggins,23
+The Little Schemer,210,1931082278,92,1985,CRC,John Quan,24
+Functional Programming in Scala,320,976876027,93,1999,Penguin,Raia Hadsell,25
+High Performance Browser Networking,400,1400076757,94,1954,Apress,M. Sevi Baltaoglu,26
+Sams Teach Yourself Perl in 24 Hours,462,879054700,95,1981,Random House,Lang Tong,27
+Learn Python The Hard Way,210,1555536778,96,1967,Bodley Head,Qing Zhao,28
+Effective Python: 59 Specific Ways to Write Better Python,227,1880399989,97,1949,MIT Press,Ingmar Kanitscheider,29
+Programming in Lua Fourth Edition,388,1933859865,98,1966,Penguin,Ila Fiete,30
+Release It!: Design and Deploy Production-Ready Software (Pragmatic Programmers),326,631206523,99,2013,Random House,Nicholas Watters,31
+Think Complexity: Complexity Science and Computational Modeling,160,743299760,100,2011,MIT Press,Andrea Tacchetti,32
+A Tour of C++,192,813529662,101,1990,Apress,Erinc Merdivan,33
+Reviewing C++,546,920661599,102,1993,Penguin,Mitchell Gil Maltenfort,34
+Functional Programming Application and Implementation,350,743203887,103,2016,Penguin,Mohammad Reza Loghmani,35
+The Elements of Computing Systems: Building a Modern Computer from First Principles,325,967023432,104,1968,O'Reilly,Slobodan Mitrovic,36
+Simulation of Digital Communication Systems using Matlab,422,761131655,105,1987,HBA,Jakub M. Tarnawski,37
+Game Programming Patterns,300,1557837473,106,2014,O'Reilly,Sreeram Kannan,38
+The Practice of Programming (Addison-Wesley Professional Computing Series),288,816645612,107,1985,Penguin,Hyeji Kim,39
+From Mathematics to Generic Programming,320,395980755,108,1998,O'Reilly,Hugh Salimbeni,40
+REST in Practice: Hypermedia and Systems Architecture,448,932379192,109,1988,MIT Press,Mastane Achab,41
+The Visual Display of Quantitative Information,197,72400196,110,1954,Penguin,Yusuke Muraoka,42
+Fearless Change: Patterns for Introducing New Ideas,304,979485223,111,1972,Penguin,Yitong Li,43
+Elements of Programming,262,1879960583,112,1950,Random House,Sanjiban Choudhury,44
+Learning Ruby,260,813527260,113,2018,Random House,Fernando J. Pineda,45
+The Design of Design: Essays from a Computer Scientist,421,1931010471,114,1977,Random House,Robert E. Druzinsky,46
+Build Web Applications with Java: Learn every aspect to build web applications from scratch,372,813520185,115,2021,Random House,Shervin Javdani,47
+More Effective C++,336,73221538,116,1972,Rupa,Siddhartha Srinivasa,48
+Cryptography Engineering: Design Principles and Practical Applications,353,618570489,117,2019,Penguin,Sebastian Scherer,49
+Effective JavaScript: 68 Specific Ways to Harness the Power of JavaScript,240,873514289,118,1996,Random House,Sami Remes,50
+Machine Learning for Hackers,322,673469778,119,2016,Rupa,Markus Heinonen,51
+Code Complete,914,446676918,120,1987,Transworld,Jaehyun Jun,52
+Making Games with Python & Pygame,366,879103663,121,1975,Pan,Kiran Garimella,53
+Big Data: Principles and best practices of scalable realtime data systems,328,61175358,122,2020,Hyperion,Aristides Gionis,54
+The Mythical Man-Month: Essays on Software Engineering,322,130266876,123,1966,Penguin,Nikos Parotsidis,55
+The Clean Coder: A Code of Conduct for Professional Programmers,210,1589801768,124,1998,Random House,Nikolaj Tatti,56
+Programming Pearls,239,321116232,125,1947,Penguin,C. J. Heckman,57
+C# in Depth,554,631204490,126,1988,HarperCollins,Zahra Ghodsi,58
+Learning Perl,312,813531640,127,2014,Penguin,Tianyu Gu,59
+The Scrumban [R]Evolution: Getting the Most Out of Agile Scrum and Lean Kanban,384,816513848,128,1959,HarperCollins,Siddharth Garg,60
+Real-World Machine Learning,264,786436840,129,1978,Pocket,Barna Saha,61
+PHP and MySQL Web Development (Developer's Library),1008,312596227,130,2001,Mauj,Peter Karkus,62
+Managing Data Using Excel,324,72564024,131,1948,Penguin,Robert S. Chen,63
+Designing Data-Intensive Applications: The Big Ideas Behind Reliable Scalable and Maintainable Systems,616,812979923,132,1951,Penguin,Brendan Lucier,64
+Unity Virtual Reality Projects,286,231081227,133,2002,Penguin,Linxi Liu,65
+The Sciences of the Artificial,248,1575256185,134,1959,Random House,Omar El Housni,66
+Programming Ruby: The Pragmatic Programmers' Guide,828,253206375,135,1997,Rupa,Scott M. Lundberg,67
+Python for Data Analysis,400,1575255596,136,2020,Random House,W. Zev Rymer,68
+Data Science from Scratch: First Principles with Python,330,295969741,137,1984,BBC,Teodor Vanislavov Marinov,1
+The Linux Programming Interface: A Linux and Unix System Programming Handbook,1506,881508594,138,2013,Random House,Poorya Mianjy,2
+Clean Code: A Handbook of Agile Software Craftsmanship,434,140273050,139,1973,Elsevier,Samuel Schoenholz,3
+Peopleware: Productive Projects and Teams,245,1570758468,140,1994,Pearson,Stefan Bauer,4
+Extreme Programming Explained: Embrace Change (The XP Series),224,60874112,141,2015,Pearson,Nico S. Gorbach,5
+Test Driven Development: By Example,216,981519423,142,2011,O'Reilly,Anastasiia Mishchuk,6
+UML Distilled: A Brief Guide to the Standard Object Modeling Language,208,395926882,143,1959,Prentice Hall,Dmytro Mishkin,7
+Effective STL: 50 Specific Ways to Improve Your Use of the Standard Template Library,288,231112599,144,1965,Pearson,Filip Radenovic,8
+Introduction to Computation and Programming Using Python,280,618902813,145,2004,TMH,Jiri Matas,9
+Essential Scrum: A Practical Guide to the Most Popular Agile Process,496,1575257629,146,1988,Prentice Hall,Chaobing Song,10
+Practical Object Oriented Design in Ruby,247,375703004,147,1982,Random House,Shaobo Cui,11
+The Boost C++ Libraries,570,385422431,148,1978,Penguin,Shu-Tao Xia,12
+Building an FPS Game with Unity,326,1575255898,149,1997,Random House,Yong Jiang,13
+The It Handbook for Business: Managing Information Technology Support Costs,180,1604330376,150,1992,Picador,Aniket Anand Deshmukh,14
+DIV Grad Curl and All That: An Informal Text on Vector Calculus,176,553375180,151,2012,Penguin,Clay Scott,15
+Design and Validation of Computer Protocols,512,965834441,152,2004,Penguin,Xin Dong,16
+The Psychology of Computer Programming,292,375414584,153,1996,Penguin,Shangyu Chen,17
+Make Your Own Neural Network,252,807028231,154,1972,Random House,Sinno Pan,18
+Accelerated C++: Practical Programming by Example,352,874177596,155,2009,Pan,Yonatan Geifman,19
+The Rails Way,851,822220423,156,1977,HarperCollins,Addison Hu,20
+The Joy of Clojure,328,451527445,157,2021,Mauj,Catherine Stevens,21
+More Exceptional C++: 40 New Engineering Puzzles Programming Problems and Solutions,304,1557836965,158,2002,Penguin,Chao Pan,22
+Exceptional C++ Style: 40 New Engineering Puzzles Programming Problems and Solutions,325,321093836,159,1964,Springer,Michael Zhu,23
+Computational Geometry: Algorithms and Applications,386,1555837476,160,1975,Mauj,Gauri Jagatap,24
+Head First Design Patterns,638,195122712,161,1969,Mauj,Dan Tito Svenstrup,25
+Continuous Delivery: Reliable Software Releases Through Build Test and Deployment Automation,463,786869186,162,2016,Mauj,Jonas Hansen,26
+Quantum Computing Since Democritus,370,877970602,163,1960,Mauj,Yingxiang Yang,27
+Data Structures and Algorithms,448,618532986,164,1991,HarperCollins,Jalal Etesami,28
+Android NDK Game Development Cookbook,320,791419045,165,1956,Mauj,Alexandre Drouin,29
+Assembly Language: Step-By-Step,448,1572331321,166,2015,Penguin,Toby Hocking,30
+Effective Programming: More Than Writing Code,283,1555839975,167,1971,Wiley,Francois Laviolette,31
+Building Microservices: Designing Fine-Grained Systems,262,1575252716,168,2018,Wiley,Jacob Engelbrecht,32
+Exceptional C++: 47 Engineering Puzzles Programming Problems and Solutions,208,814727476,169,1958,Penguin,Guangwei Yu,33
+Reviewing Java,658,415924448,170,2005,HarperCollins,Tomi Poutanen,34
+Microsoft Visual C# Step by Step,816,374525218,171,1993,Penguin,Adam Santoro,35
+Refactoring: Improving the Design of Existing Code,431,1405188626,172,1988,Springer,David Raposo,36
+Growing Object-Oriented Software Guided by Tests,345,1604732148,173,2012,Orient Blackswan,Garrett Andersen,37
+Modern C++ Design: Generic Programming and Design Patterns Applied,360,1880000768,174,1974,Penguin,Andrei-Cristian Barbos,38
+Structure and Interpretation of Computer Programs (MIT Electrical Engineering and Computer Science),657,313308608,175,1974,CRC,Jean-Francois Giovannelli,39
+Structure and Interpretation of Computer Programs,657,804111677,176,1994,Penguin,Dwight Crow,40
+Beginning Game Programming: A Gamedev.Net Collection,514,345383176,177,1989,Apress,Alex Ray,41
+Advanced Game Programming: A Gamedev.Net Collection,464,345382226,178,1948,Random House,Rachel Fong,42
+Basic Proof Theory,355,1931082561,179,2007,Bodley Head,Mark Plutowski,43
+C: A Reference Manual,458,140390146,180,1954,MIT Press,Bob McGrew,44
+Working Effectively with Legacy Code,464,820321044,181,1992,Penguin,Josh Tobin,45
+API Design for C++,472,918949254,182,1961,Random House,OpenAI Pieter Abbeel,46
+Cross-Platform Game Programming (Game Development) (Charles River Media Game Development),460,393310906,183,1951,MIT Press,huan ling,47
+Design Patterns: Elements of Reusable Object-Oriented Software,416,1400033217,184,2020,Apress,Cheng Zhang,48
+Haskell: The Craft of Functional Programming,487,618256636,185,2021,Penguin,Robert Bamler,49
+Object-Oriented Design Heuristics,379,140390871,186,1991,Penguin,Yaroslav Ganin,50
+C Primer Plus,959,767918460,187,1968,O'Reilly,Joseph Paul Cohen,51
+Lambda-Calculus Combinators and Functional Programming,192,393930130,188,1955,HBA,Charles Ruizhongtai Qi,52
+C++ Primer,976,375755020,189,1957,O'Reilly,Li Yi,53
+Mining of Massive Datasets,326,1428262504,190,1953,Penguin,Shinichi Sakata,54
+Framework Design Guidelines: Conventions Idioms and Patterns for Reusable .NET Libraries,480,131937928,191,2002,O'Reilly,Tackgeun You,55
+Dependency Injection in .NET,584,679736336,192,1993,MIT Press,Jonghwan Mun,56
+Think Like a Programmer: An Introduction to Creative Problem Solving,233,813545757,193,1994,Penguin,Alberto Garcia Duran,57
+Augmented Reality: Principles and Practice,528,451528735,194,1987,Penguin,Mauricio A. Alvarez,58
+Fluent Python: Clear Concise and Effective Programming,792,674027639,195,1959,Random House,Neil Lawrence,59
+Hacker's Delight,320,385491182,196,2017,Random House,Rishit Sheth,60
+Domain-Specific Languages,597,393318281,197,2013,Random House,arthur flajolet,61
+Implementing Domain-Driven Design,656,393927431,198,2004,Random House,Sean Welleck,62
+CLR via C# (Developer Reference),863,321088999,199,1994,Rupa,Honglei Zhuang,63
+The Calculus of Computation: Decision Procedures with Applications to Verification,366,813538629,200,2015,Penguin,Chi Wang,64
+C++ Coding Standards: 101 Rules Guidelines and Best Practices (C++ in Depth Series),240,486294501,201,2005,Random House,Halbert White,65
+How to Design Programs: An Introduction to Programming and Computing,728,618751181,202,2015,Rupa,Hsiao-Wei Tung,66
+Advanced Programming in the UNIX Environment,927,1440151512,203,2017,Transworld,Yi-An Lai,67
+Learning Python,1214,822220768,204,1998,Pan,Chin-Chi Hsu,68
+Programming PHP,542,896086992,205,1985,Hyperion,Wen Hao Chen,1
+The C Programming Language,288,1581825234,206,1990,Penguin,Mi-Yen Yeh,2
+The C++ Programming Language,1040,1598530518,207,1986,Random House,Elman Mansimov,3
+Mathematics for 3D Game Programming and Computer Graphics,545,618379029,208,1964,Penguin,Shun Liao,4
+Pro TypeScript: Application-Scale JavaScript Development,256,618427058,209,1956,HarperCollins,Joseph Geumlek,5
+The Protocols (TCP/IP Illustrated Volume 1),600,1590170385,210,1954,Penguin,Stefanos Eleftheriadis,6
+Domain-Driven Design: Tackling Complexity in the Heart of Software,560,77239059,211,1984,HarperCollins,Tom Nicholson,7
+Feynman Lectures On Computation,320,195144562,212,1961,Pocket,Tommi Jaakkola,8
+Communication Networks: Fundamental Concepts and Key Architectures,928,1569472181,213,2021,Mauj,Ziyu Wang,9
+The Unified Modeling Language User Guide,475,312412088,214,2003,Penguin,Thomas Anthony,10
+Introduction to Game Design Prototyping and Development: From Concept to Playable Game with Unity and C#,908,393318737,215,1998,Penguin,Zheng Tian,11
+Lambda-Calculus and Combinators: An Introduction,345,1893996387,216,1980,Penguin,Yogatheesan Varatharajah,12
+Algorithms,976,312115520,217,1996,Random House,Min Jin Chong,13
+Computational Complexity,544,618983228,218,1995,Rupa,Krishnakant Saboo,14
+C++ Templates: The Complete Guide,560,743299752,219,1981,Random House,Brent Berry,15
+The UNIX Programming Environment,357,1598530429,220,2009,BBC,Benjamin Brinkmann,16
+Concrete Mathematics: A Foundation for Computer Science,672,806628448,221,2011,Random House,Gregory Worrell,17
+Inside the C++ Object Model,304,393040011,222,1961,Elsevier,Ravishankar Iyer,18
+Machine Learning,414,1615580190,223,1978,Pearson,James C. Houk,19
+The Algorithm Design Manual,730,811844943,224,1982,Pearson,Zoubin Ghahramani,20
+Algorithm Design,864,826217796,225,2017,O'Reilly,Chao Qin,21
+xUnit Test Patterns: Refactoring Test Code,883,321116240,226,1992,Prentice Hall,Diego Klabjan,22
+Genetic Programming II: Automatic Discovery of Reusable Programs,768,1558490418,227,1981,Pearson,Harm Van Seijen,23
+Optimized C++: Proven Techniques for Heightened Performance,388,963290622,228,2006,TMH,Romain Laroche,24
+Deep Learning,787,1573833320,229,1981,Prentice Hall,Mehdi Fatemi,25
+Practical Foundations for Programming Languages,582,60924209,230,1982,Random House,Joshua Romoff,26
+Engineering a Compiler,801,689808690,231,1964,Penguin,Luiz Chamon,27
+Object-Oriented Analysis and Design with Applications,720,451529154,232,2013,Random House,Jinseok Nam,28
+Database System Concepts,1142,60882506,233,2017,Picador,Eneldo Loza Mencia,29
+Elements of the Theory of Computation,384,142001945,234,1996,Penguin,Hyunwoo J. Kim,30
+Agile Software Development Principles Patterns and Practices,552,60927631,235,2005,Penguin,Eric Boussard,31
+3D Math Primer for Graphics and Game Development,846,641974124,236,1993,Penguin,Johannes Fernkranz,32
+Introduction to the Theory of Computation,431,393927423,237,1990,Random House,Sylvain Gelly,33
+Game Programming Gems,600,312474911,238,2018,Pan,Carl-Johann SIMON-GABRIEL,34
+Game Programming Gems 2,575,1558850031,239,1961,HarperCollins,Can Karakus,35
+Game Programming Gems 5,791,521540283,240,1993,Mauj,Yifan Sun,36
+Introduction to Algorithms,1180,822220555,241,1947,Penguin,Wotao Yin,37
+Geometric Algebra for Computer Science: An Object-Oriented Approach to Geometry,626,77239040,242,1985,Springer,Christos Dimitrakakis,38
+Essentials of Programming Languages,410,307268349,243,1998,Mauj,Goran Radanovic,39
+The Art of Computer Programming Volume 1: Fundamental Algorithms,672,1598530690,244,2006,Mauj,Paul Tylkin,40
+Essential Mathematics for Games and Interactive Applications,624,609808400,245,1953,Mauj,Kyuhong Shim,41
+Game Engine Architecture,1052,1560255501,246,1992,Mauj,Jean-Francois Vibert,42
+A First Course in Logic: An Introduction to Model Theory Proof Theory Computability and Complexity,431,1934633941,247,1964,HarperCollins,Minjae Lee,43
+Computational Science and Engineering,716,618197338,248,2020,Mauj,Iksoo Choi,44
+Introduction to Automata Theory Languages and Computation,521,385000197,249,1954,Penguin,Yoonho Boo,45
+Geometric Tools for Computer Graphics,1056,393927393,250,1996,Wiley,Wonyong Sung,46
+Computer Architecture: A Quantitative Approach,493,393979202,251,1997,Wiley,Francis Dutil,47
+Computer Systems: A Programmer's Perspective,978,393977781,252,1962,Penguin,Adam Trischler,48
+Modern Operating Systems,976,312463197,253,1983,HarperCollins,Priya Donti,49
+Modern Operating Systems 4th Edition,1136,393061817,254,2018,Penguin,Brandon Amos,50
+Structured Computer Organization,669,142437530,255,1952,Springer,Hao Liu,51
+Game Engine Gems 1,362,1557837600,256,1950,Orient Blackswan,John Wilmes,52
+Concepts Techniques and Models of Computer Programming,936,425234282,257,1977,Penguin,Justin A. Boyan,53
+File Structures: An Object-Oriented Approach with C++,724,1435114760,258,1980,CRC,Prasanna Sattigeri,54
+The C++ Standard Library: A Tutorial and Reference,1136,1400030935,259,1953,Penguin,Shuang Liu,55
+Artificial Intelligence: A Modern Approach,1132,205655106,260,2017,Apress,Hao He,56
+3D Game Engine Design: A Practical Approach to Real-Time Computer Graphics (The Morgan Kaufmann Series in Interactive 3D Technology),1040,61626392,261,1951,Random House,Christopher Srinivasa,57
+Game Programming Gems 6,700,1598530208,262,1988,Bodley Head,Inmar Givoni,58
+Compilers: Principles Techniques and Tools,796,60540427,263,1980,MIT Press,Vaishnavh Nagarajan,59
+Game Programming Gems 4,703,61728942,264,2008,Penguin,Kuan-Chieh Wang,60
+Game Programming Gems 3,663,1565841476,265,1976,Random House,Xingjian Shi,61
+Numerical Recipes: The Art of Scientific Computing,1235,486457575,266,1987,MIT Press,Zhihan Gao,62
+3D Game Engine Architecture: Engineering Real-Time Applications with Wild Magic (The Morgan Kaufmann Series in Interactive 3d Technology),752,1402221118,267,2003,Apress,Leonard Lausen,63
+An Introduction to Database Systems,1040,679745254,268,1961,Penguin,Anna Volokitin,64
+The Art of Computer Programming Volumes 1-3 Boxed Set,896,393930157,269,1985,Penguin,Takashi Ishida,65
+The Art of Computer Programming Volumes 1-4a Boxed Set,3168,135145287,270,2017,O'Reilly,Weihua Hu,66
+A Discipline for Software Engineering,789,553262637,271,1956,HBA,Fanny Yang,67
