@@ -35,7 +35,7 @@ University project, May 2021: design and implementation of a library database ac
 
 ## Screenshot of the Final Website
 
-![](Media/screenshot1.png)
-
 ![](Media/screenshot2.png)
+
+![](Media/screenshot1.png)
 
