@@ -1,0 +1,155 @@
+.container {
+  max-width: 90%;
+}
+body {
+  background-color: #DCDCDC !important;
+  font-family: "Lucida Console", "Courier New", monospace !important;
+}
+header a {
+  color: inherit !important;
+  text-decoration: none !important;
+  display: block;
+  padding-top: 1em;
+  padding-bottom: 1em;
+}
+header .row {
+  padding-top: 2rem;
+}
+header a:hover {
+  background-color: #A9A9A9;
+}
+header .row div {
+  font-size: 1.5rem !important;
+  font-weight: bold;
+  text-align: center;
+  padding: 0;
+}
+.title > div > h1{
+  text-align: center;
+  font-size: 6rem !important;
+}
+.title {
+  margin: 3rem auto 2rem auto !important;
+}
+.description {
+  text-align: center;
+}
+.line {
+  margin-bottom: 2rem;
+  margin-top: 1rem !important;
+}
+#searchform > .row {
+  margin-bottom: 1rem;
+  min-height: 3rem;
+}
+#author, #title {
+  width: 100%;
+}
+/*input fields in search form*/
+#author, #title, #medium, #genre, #language {
+  background-color: inherit;
+  border-style: solid;
+  border-color: grey;
+}
+/*the search button*/
+#searchform > .row > .col-md-5 > input {
+  width: 100%;
+  border-color: aliceblue;
+}
+
+.item > .row > .col-md-8  {
+  padding: 1.5rem;
+}
+.item > .row > .col-md-8, .item > .row > .col-md-1{
+  background-color: #ececec;
+}
+.item > .row {
+  margin-bottom: 2.5em;
+}
+.item form, .author form, .itempage .authors form, .itempage .row a {
+  display: inline;
+  padding: 0;
+}
+.itempage .authors {
+  display:inline-block;
+}
+.item input, .author input, .itempage .authors input, #borrowlink input, .mybooks span input {
+  text-decoration: underline;
+  border: none;
+  background-color: inherit;
+  padding: 0;
+  margin: 0;
+}
+.itemlink, #borrowlink, .mybooks span form {
+  border: 5px solid #f97272;
+  background-color:#f97272;
+}
+.itemlink input, #borrowlink input, .mybooks span input {
+  text-decoration: none;
+}
+
+/*register form page*/
+#registerform input, #loginform input {
+  width: 80%;
+}
+#registerform .row {
+  padding-top: 3rem;
+}
+#registerform #register {
+  background-color: #f97272 !important;
+  width: 100% !important;
+}
+
+/*author page*/
+.author img {
+  max-width: 40%;
+}
+.author .col-md-8 {
+  text-align: center;
+  padding-bottom: 1rem;
+  padding-top: 1rem;
+  background-color: #ececec;
+}
+.author #authorname {
+  font-weight: bold;
+  margin: 0 !important;
+  font-size: 1.3rem !important;
+}
+/*item page*/
+.itempage img {
+  width: 100%;
+  height: auto;
+}
+.itempage .well .row {
+  padding-left: 1rem;
+  padding-bottom: 0.5rem;
+}
+.itempage >.row .image, .itempage > .row .well {
+  background-color: #ececec !important;
+  padding-top: 1rem;
+  padding-bottom: 1rem;
+}
+/*.itempage .audiobooks,*/ .itempage .scans {
+  display:inline-block;
+}
+.borrowform form {
+  padding: 0;
+}
+#borrowlink {
+  margin-left: 2rem;
+}
+.itempage a {
+  width: auto !important;
+}
+/*my books page*/
+.mybooks > .row .col-md-2, .mybooks > .row .col-md-6{
+  background-color: #ececec;
+  padding: 2rem;
+}
+.mybooks .row {
+  margin-bottom:2rem;
+}
+#loginform .row {
+  margin-bottom: 2rem;
+}
+#loginform input {}
