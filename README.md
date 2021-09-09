@@ -27,11 +27,11 @@ University project, May 2021: design and implementation of a library database ac
 
 ## Diagram
 
-[entity-relationship diagram](sources/ER-Diagram.pdf)
+[entity-relationship diagram](ER-Diagram.pdf)
 
 ## Specifications
 
-[the boring stuff](sources/Specifications.pdf)
+[the boring stuff](Specifications.pdf)
 
 ## Screenshot of the Final Website
 
