@@ -39,3 +39,12 @@ University project, May 2021: design and implementation of a library database ac
 
 ![](Media/screenshot1.png)
 
+The website is designed with responsiveness in mind and thus maintains visual clarity regardless of the device it is viewed on.
+
+![](Media/screenshot5.png)
+
+![](Media/screenshot6.png)
+
+![](Media/screenshot3.png)
+
+![](Media/screenshot4.png)
