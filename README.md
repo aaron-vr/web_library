@@ -14,7 +14,7 @@ University project, May 2021: design and implementation of a library database ac
 
 ## How to Deploy
 
-1. set up a local database using [Oracle's DBMS](https://www.oracle.com/database/technologies/appdev/sqldeveloper-landing.html) and modify your database credentials in [the databasehelper file](databasehelper.php) accordingly
+1. set up a local database using [Oracle's RDBMS](https://www.oracle.com/database/technologies/appdev/sqldeveloper-landing.html) and modify your database credentials in [the databasehelper file](databasehelper.php) accordingly
 
 
 2. run the [drop.sql](sources/drop.sql) and [create.sql](sources/create.sql) files in that order on your local server in order to instantiate all the necessary relations along with their integrity and reference constraints
