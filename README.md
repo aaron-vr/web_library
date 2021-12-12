@@ -12,6 +12,8 @@ The design and implementation of a library database accessible via the web
 
 * Client-side: **HTML5, CSS3, Bootstrap 5**
 
+* Data generation: **Java** with **JDBC**
+
 ## How to Deploy
 
 1. set up a local database using [Oracle's RDBMS](https://www.oracle.com/database/technologies/appdev/sqldeveloper-landing.html) and modify your database credentials in [the databasehelper file](databasehelper.php) accordingly
