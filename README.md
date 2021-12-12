@@ -31,7 +31,7 @@ University project, May 2021: design and implementation of a library database ac
 
 ## Specifications
 
-[the boring stuff](Specifications.pdf)
+[Conceptual design](Specifications.pdf)
 
 ## Screenshot of the Final Website
 
