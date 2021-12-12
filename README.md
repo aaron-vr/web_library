@@ -1,7 +1,7 @@
 # Web Library
 The design and implementation of a library database accessible via the web
 
-> Made use of the opportunity to hone my skills in [relational algebra](https://en.wikipedia.org/wiki/Relational_algebra), [database design](https://en.wikipedia.org/wiki/Database_design), [query optimisation](https://en.wikipedia.org/wiki/Query_optimization), and [responsive web design](https://en.wikipedia.org/wiki/Responsive_web_design).
+> With emphasis on [relational algebra](https://en.wikipedia.org/wiki/Relational_algebra), [database design](https://en.wikipedia.org/wiki/Database_design), [query optimisation](https://en.wikipedia.org/wiki/Query_optimization), and [responsive web design](https://en.wikipedia.org/wiki/Responsive_web_design).
 
 ## Tech Stack
 * Modeling language: **entity-relationship model** (Chen notation)
