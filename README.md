@@ -31,7 +31,7 @@ University project, May 2021: design and implementation of a library database ac
 
 ## Specifications
 
-[Conceptual design](Specifications.pdf)
+[Conceptual design](Specification.pdf)
 
 ## Screenshot of the Final Website
 
