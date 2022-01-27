@@ -22,7 +22,7 @@ The design and implementation of a library database accessible via the web
 2. run the [drop.sql](sources/drop.sql) and [create.sql](sources/create.sql) files in that order on your local server in order to instantiate all the necessary relations along with their integrity and reference constraints
 
 
-3. either run the [dml.sql](sources/dml.sql) file to populate the database you've now created with some test data or run the [TestDataGenerator.jar](sources/TestDataGenerator.jar) (eg. in bash: `java -jar TestdataGenerator.jar`) for a larger set of tuples (thousands of rows)
+3. either run the [dml.sql](sources/dml.sql) file to populate the database you've now created with some test data or run the \[REMOVED\] (eg. in bash: `java -jar TestdataGenerator.jar`) for a larger set of tuples (thousands of rows)
 
 4. open the [index.php](index.php) file in your browser
 
