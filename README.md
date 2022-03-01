@@ -14,7 +14,7 @@ The design and implementation of a library database accessible via the web
 
 * Data generation: **Java** with **JDBC**
 
-## How to Deploy
+## Deployment
 
 1. set up a local database using [Oracle's RDBMS](https://www.oracle.com/database/technologies/appdev/sqldeveloper-landing.html) and modify your database credentials in [the databasehelper file](databasehelper.php) accordingly
 
